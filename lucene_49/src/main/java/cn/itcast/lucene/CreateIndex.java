@@ -28,6 +28,7 @@ public class CreateIndex {
 	@Test
 	public void createIndex() {
 		//创建写入索引库的对象
+		//左边加入注释
 		//Directory d 目录指的是索引库存储目录
 		//IndexWriterConfig conf 写入对象的配置信息
 		try {
